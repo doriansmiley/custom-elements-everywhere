@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "minimist": "1.2.5",
-    "mocha": "6.2.3"
+    "mocha": "8.3.2"
   },
   "license": "MIT"
 }
